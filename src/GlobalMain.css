@@ -1,0 +1,11 @@
+.globalMain {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  @media (min-width: 500px){
+      .globalMain{
+        min-width: 925px;
+      }
+  }
